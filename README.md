@@ -57,6 +57,6 @@ This repository hosts two small Unity projects built around a simple controllabl
 
 ```md
 ## Screenshots
-docs/wonderland_scene.png
-docs/treasure_run.png
+![Wonderland scene](./docs/wonderland_scene.png)
+![Treasure Bob gameplay](./docs/treasure_run.png)
 ```
